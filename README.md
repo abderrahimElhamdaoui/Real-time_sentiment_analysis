@@ -10,7 +10,7 @@
             <li> **Analyse des sentiments** : Le code analyse les sentiments des tweets récupérés en utilisant des techniques de traitement du langage naturel (NLP).</li>
           </ul>
         </p>
-
+        <p>
         <h3> I. Le code d'extraction des tweets utilise Selenium pour automatiser l'interaction avec Twitter et récupérer les tweets en temps réel</h3>
           <h4>Fonctionnalités</h4>
           <ul>
@@ -27,7 +27,7 @@
             <li>Git</li>
             <li>Compte Twitter avec les informations d'identification</li>
           </ul>
-
+        </p>
         <h3> II. Analyse de sentiments sur les tweets</h3>
          <h4>Fonctionnalités</h4>
            <ul>
@@ -36,7 +36,7 @@
             <li>Analyse des sentiments des tweets en utilisant un modèle pré-entraîné de Hugging Face Transformers</li>
             <li>Visualisation des résultats (diagrammes circulaires, histogrammes)</li>
            </ul>
-
+          <p>
          <h4>Prérequis</h4>
           <ul>
             <li>Python 3.x</li>
@@ -48,6 +48,6 @@
             <li>wordcloud</li>
             <li>transformers</li>
           </ul>
-
+          </p>
     </body>
 </html>
